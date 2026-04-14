@@ -5,7 +5,7 @@
 
     <application
         android:label="Automated Water System"
-        android:theme="@style/Theme.WaterApp">
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
 
         <activity android:name=".MainActivity">
             <intent-filter>
