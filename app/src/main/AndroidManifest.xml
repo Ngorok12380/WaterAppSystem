@@ -3,6 +3,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
+        android:icon="@mipmap/ic_launcher"
         android:label="Automated Water System"
         android:theme="@style/Theme.WaterApp">
 
